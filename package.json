@@ -20,7 +20,7 @@
   "homepage": "https://github.com/thoth-education/FOFIS#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
     "play-sound": "^1.1.3",
